@@ -1,0 +1,17 @@
+{
+  "name": "pokemon-manager",
+  "version": "1.0.0",
+  "description": "a management system for pokemon",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "pokemon"
+  ],
+  "author": "\"RT\"",
+  "license": "ISC"
+}
